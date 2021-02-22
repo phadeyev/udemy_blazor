@@ -1,0 +1,54 @@
+@page "/DemoHotel"
+
+@using Model
+
+<h3>We will display hotel rooms and amenitites here!</h3>
+
+<div class="bg-light border p-2">
+    <p class="text-info">Room List [USING COMPONENT]</p>
+</div>
+@code{
+    string SelectedRoomProp = "";
+    List<BlazorRoom> RoomsList = new List<BlazorRoom>();
+    BlazorRoom Room = new BlazorRoom()
+    {
+        Id = 1,
+        RoomName = "Villa Suite",
+        IsActive = true,
+        Price = 499,
+        RoomProps = new List<BlazorRoomProp>
+        {
+            new BlazorRoomProp{Id=1, Name="Sq Ft", Value="100"},
+            new BlazorRoomProp{Id=2, Name="Occupancy", Value="3"},
+        }
+    };
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        RoomsList.Add(new BlazorRoom()
+        {
+            Id = 201,
+            RoomName = "Villa Suite One Bed Room",
+            IsActive = true,
+            Price = 399,
+            RoomProps = new List<BlazorRoomProp>
+            {
+                new BlazorRoomProp{Id=1, Name="Sq Ft", Value="150"},
+                new BlazorRoomProp{Id=2, Name="Occupancy", Value="4"},
+            }
+        });
+
+        RoomsList.Add(new BlazorRoom()
+        {
+            Id = 1,
+            RoomName = "Villa Suite Two Bed Room",
+            IsActive = true,
+            Price = 699,
+            RoomProps = new List<BlazorRoomProp>
+            {
+                new BlazorRoomProp{Id=1, Name="Sq Ft", Value="330"},
+                new BlazorRoomProp{Id=2, Name="Occupancy", Value="6"},
+            }
+        });
+    }
+}
