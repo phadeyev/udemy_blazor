@@ -1,0 +1,25 @@
+@using Model
+
+<div class="bg-light border p-2 col-5" @onclick="(args) => 
+                        AmenitySelectionChanged(args, Amenity.Name)">
+<h4 class="text-secondary">Amenity - @Amenity.Id</h4>
+
+@Amenity.Name <br />
+@Amenity.Description <br />
+<span>RF from parent - @FirstRenderFragment @SecondRenderFragment</span>
+</div>
+
+@code {
+    [Parameter]
+    public Amenity Amenity { get; set; }
+    [Parameter]
+    public EventCallback<string> OnAmenitySelection { get; set; }
+    [Parameter]
+    public RenderFragment FirstRenderFragment { get; set; }
+    [Parameter]
+    public RenderFragment SecondRenderFragment { get; set; }
+    protected async Task AmenitySelectionChanged(MouseEventArgs e, string name)
+    {
+        await OnAmenitySelection.InvokeAsync((string)name);
+    }
+}

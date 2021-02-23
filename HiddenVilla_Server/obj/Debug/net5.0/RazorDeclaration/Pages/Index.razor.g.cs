@@ -83,6 +83,13 @@ using HiddenVilla_Server.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 12 "D:\dev\udemy\blazor\HiddenVilla_Server\_Imports.razor"
+using HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "D:\dev\udemy\blazor\HiddenVilla_Server\Pages\Index.razor"
 using Model;
 

@@ -45,6 +45,730 @@
         }
       },
       {
+        "HashCode": -1867551238,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.BindProp",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BindProp"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.BindProp"
+        }
+      },
+      {
+        "HashCode": 453046527,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.BindProp",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.BindProp"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.BindProp",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -947307764,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Lifecycle"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle"
+        }
+      },
+      {
+        "HashCode": 1614447214,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -445175186,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.LifecycleComponent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LifecycleComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CountValue",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "CountValue"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.LifecycleComponent"
+        }
+      },
+      {
+        "HashCode": 769929409,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.LifecycleComponent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.LifecycleComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CountValue",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "CountValue"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.LifecycleComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 553597568,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.EditDeleteButton",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditDeleteButton"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IsAdmin",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "IsAdmin"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.EditDeleteButton"
+        }
+      },
+      {
+        "HashCode": -933302622,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.EditDeleteButton",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.EditDeleteButton"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IsAdmin",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "IsAdmin"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.EditDeleteButton",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1273975582,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.IndividualRoom",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "IndividualRoom"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Room",
+            "TypeName": "HiddenVilla_Server.Model.BlazorRoom",
+            "Metadata": {
+              "Common.PropertyName": "Room"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnRoomCheckBoxSelection",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean>",
+            "Metadata": {
+              "Common.PropertyName": "OnRoomCheckBoxSelection",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.IndividualRoom"
+        }
+      },
+      {
+        "HashCode": -1863725547,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.IndividualRoom",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.IndividualRoom"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Room",
+            "TypeName": "HiddenVilla_Server.Model.BlazorRoom",
+            "Metadata": {
+              "Common.PropertyName": "Room"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnRoomCheckBoxSelection",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean>",
+            "Metadata": {
+              "Common.PropertyName": "OnRoomCheckBoxSelection",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.IndividualRoom",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1047866817,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AmenityComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Amenity",
+            "TypeName": "HiddenVilla_Server.Model.Amenity",
+            "Metadata": {
+              "Common.PropertyName": "Amenity"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnAmenitySelection",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Metadata": {
+              "Common.PropertyName": "OnAmenitySelection",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "FirstRenderFragment",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "FirstRenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SecondRenderFragment",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "SecondRenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent"
+        }
+      },
+      {
+        "HashCode": 505517151,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Amenity",
+            "TypeName": "HiddenVilla_Server.Model.Amenity",
+            "Metadata": {
+              "Common.PropertyName": "Amenity"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnAmenitySelection",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Metadata": {
+              "Common.PropertyName": "OnAmenitySelection",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "FirstRenderFragment",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "FirstRenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SecondRenderFragment",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "SecondRenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -983103562,
+        "Kind": "Components.ChildContent",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent.FirstRenderFragment",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FirstRenderFragment",
+            "ParentTag": "AmenityComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent.FirstRenderFragment",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1948006880,
+        "Kind": "Components.ChildContent",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent.FirstRenderFragment",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FirstRenderFragment",
+            "ParentTag": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent.FirstRenderFragment",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2001012557,
+        "Kind": "Components.ChildContent",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent.SecondRenderFragment",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SecondRenderFragment",
+            "ParentTag": "AmenityComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent.SecondRenderFragment",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1317535540,
+        "Kind": "Components.ChildContent",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent.SecondRenderFragment",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SecondRenderFragment",
+            "ParentTag": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AmenityComponent.SecondRenderFragment",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1694831761,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "DangerChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "DangerChildContent",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickButtonMethod",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
+            "Metadata": {
+              "Common.PropertyName": "OnClickButtonMethod",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent"
+        }
+      },
+      {
+        "HashCode": -717794964,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "DangerChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "DangerChildContent",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClickButtonMethod",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
+            "Metadata": {
+              "Common.PropertyName": "OnClickButtonMethod",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1103442318,
+        "Kind": "Components.ChildContent",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent.ChildContent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "ChildComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -2110600755,
+        "Kind": "Components.ChildContent",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent.ChildContent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1678699436,
+        "Kind": "Components.ChildContent",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent.DangerChildContent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DangerChildContent",
+            "ParentTag": "ChildComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent.DangerChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -1418403451,
+        "Kind": "Components.ChildContent",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent.DangerChildContent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DangerChildContent",
+            "ParentTag": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.ChildComponent.DangerChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 752527030,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AnotherChildComponent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AnotherChildComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "InputAttributes",
+            "TypeName": "System.Collections.Generic.Dictionary<System.String, System.Object>",
+            "Metadata": {
+              "Common.PropertyName": "InputAttributes"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AnotherChildComponent"
+        }
+      },
+      {
+        "HashCode": 2137747970,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AnotherChildComponent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AnotherChildComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "InputAttributes",
+            "TypeName": "System.Collections.Generic.Dictionary<System.String, System.Object>",
+            "Metadata": {
+              "Common.PropertyName": "InputAttributes"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent.AnotherChildComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -312605309,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.DemoHotel",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoHotel"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.DemoHotel"
+        }
+      },
+      {
+        "HashCode": -79781632,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.DemoHotel",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.DemoHotel"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.DemoHotel",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 841486519,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.ParentComponent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ParentComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.ParentComponent"
+        }
+      },
+      {
+        "HashCode": 1444843887,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.ParentComponent",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.ParentComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.ParentComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -232119077,
         "Kind": "Components.Component",
         "Name": "HiddenVilla_Server.Pages.Counter",
@@ -107,72 +831,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "HiddenVilla_Server.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1867551238,
-        "Kind": "Components.Component",
-        "Name": "HiddenVilla_Server.Pages.LearnBlazor.BindProp",
-        "AssemblyName": "HiddenVilla_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BindProp"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.BindProp"
-        }
-      },
-      {
-        "HashCode": 453046527,
-        "Kind": "Components.Component",
-        "Name": "HiddenVilla_Server.Pages.LearnBlazor.BindProp",
-        "AssemblyName": "HiddenVilla_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.BindProp"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.BindProp",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -312605309,
-        "Kind": "Components.Component",
-        "Name": "HiddenVilla_Server.Pages.LearnBlazor.DemoHotel",
-        "AssemblyName": "HiddenVilla_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DemoHotel"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.DemoHotel"
-        }
-      },
-      {
-        "HashCode": -79781632,
-        "Kind": "Components.Component",
-        "Name": "HiddenVilla_Server.Pages.LearnBlazor.DemoHotel",
-        "AssemblyName": "HiddenVilla_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.DemoHotel"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.DemoHotel",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16008,8 +16666,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\Lifecycle.razor",
+      "TargetPath": "Pages\\LearnBlazor\\Lifecycle.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\ParentComponent.razor",
+      "TargetPath": "Pages\\LearnBlazor\\ParentComponent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\LearnBlazorComponent\\LifecycleComponent.razor",
+      "TargetPath": "Pages\\LearnBlazor\\LearnBlazorComponent\\LifecycleComponent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\LearnBlazorComponent\\ChildComponent.razor",
+      "TargetPath": "Pages\\LearnBlazor\\LearnBlazorComponent\\ChildComponent.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\LearnBlazorComponent\\EditDeleteButton.razor",
+      "TargetPath": "Pages\\LearnBlazor\\LearnBlazorComponent\\EditDeleteButton.razor",
       "FileKind": "component"
     },
     {
@@ -16028,6 +16711,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\LearnBlazorComponent\\AmenityComponent.razor",
+      "TargetPath": "Pages\\LearnBlazor\\LearnBlazorComponent\\AmenityComponent.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
@@ -16040,6 +16728,16 @@
     {
       "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\BindProp.razor",
       "TargetPath": "Pages\\LearnBlazor\\BindProp.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\LearnBlazorComponent\\AnotherChildComponent.razor",
+      "TargetPath": "Pages\\LearnBlazor\\LearnBlazorComponent\\AnotherChildComponent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\LearnBlazorComponent\\IndividualRoom.razor",
+      "TargetPath": "Pages\\LearnBlazor\\LearnBlazorComponent\\IndividualRoom.razor",
       "FileKind": "component"
     }
   ],

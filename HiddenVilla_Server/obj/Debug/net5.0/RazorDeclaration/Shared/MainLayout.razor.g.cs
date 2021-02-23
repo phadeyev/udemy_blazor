@@ -82,6 +82,13 @@ using HiddenVilla_Server.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 12 "D:\dev\udemy\blazor\HiddenVilla_Server\_Imports.razor"
+using HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent;
+
+#line default
+#line hidden
+#nullable disable
     public partial class MainLayout : LayoutComponentBase
     {
         #pragma warning disable 1998
