@@ -98,18 +98,14 @@ using HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 20 "D:\dev\udemy\blazor\HiddenVilla_Server\Pages\LearnBlazor\ParentComponent.razor"
+#line 26 "D:\dev\udemy\blazor\HiddenVilla_Server\Pages\LearnBlazor\ParentComponent.razor"
        
-        public Dictionary<string,object> InputAttributesFromParent { get; set; } = new Dictionary<string, object>()
-        {
-            { "required" , "required" },
-            { "placeholder", "Enter the Room Name (from Parent)"},
-            { "maxlength", 5}
-        };
+    private string messageForGrandChild = "This is a message from Grand Parent";
+    public int LuckyNumber { get; set; } = 7;
     private string messageText = "";
     private void ShowMessage(MouseEventArgs e)
     {
-        messageText="Blazzing text from parent";
+        messageText = "Blazzing text from parent";
     }
 
 #line default

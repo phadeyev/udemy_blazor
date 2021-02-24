@@ -99,13 +99,8 @@ using HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent;
 #nullable restore
 #line 8 "D:\dev\udemy\blazor\HiddenVilla_Server\Pages\LearnBlazor\LearnBlazorComponent\AnotherChildComponent.razor"
                                               
-    [Parameter]
-    public Dictionary<string,object> InputAttributes { get; set; } = new Dictionary<string, object>()
-        {
-            { "required" , "required" },
-            { "placeholder", "Initial Text"},
-            { "maxlength", 10}
-        };
+    [Parameter(CaptureUnmatchedValues = true)]
+    public Dictionary<string,object> InputAttributes { get; set; } = new Dictionary<string, object>();
 
 #line default
 #line hidden

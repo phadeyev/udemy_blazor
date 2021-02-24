@@ -97,7 +97,7 @@ using HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 19 "D:\dev\udemy\blazor\HiddenVilla_Server\Pages\LearnBlazor\LearnBlazorComponent\ChildComponent.razor"
+#line 22 "D:\dev\udemy\blazor\HiddenVilla_Server\Pages\LearnBlazor\LearnBlazorComponent\ChildComponent.razor"
        
     [Parameter]
     public string Title { get; set; }

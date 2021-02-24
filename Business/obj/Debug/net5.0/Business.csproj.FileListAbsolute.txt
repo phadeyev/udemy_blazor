@@ -1,0 +1,12 @@
+D:\dev\udemy\blazor\Business\bin\Debug\net5.0\Business.deps.json
+D:\dev\udemy\blazor\Business\bin\Debug\net5.0\Business.dll
+D:\dev\udemy\blazor\Business\bin\Debug\net5.0\ref\Business.dll
+D:\dev\udemy\blazor\Business\bin\Debug\net5.0\Business.pdb
+D:\dev\udemy\blazor\Business\obj\Debug\net5.0\Business.csprojAssemblyReference.cache
+D:\dev\udemy\blazor\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\udemy\blazor\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+D:\dev\udemy\blazor\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+D:\dev\udemy\blazor\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\dev\udemy\blazor\Business\obj\Debug\net5.0\Business.dll
+D:\dev\udemy\blazor\Business\obj\Debug\net5.0\ref\Business.dll
+D:\dev\udemy\blazor\Business\obj\Debug\net5.0\Business.pdb

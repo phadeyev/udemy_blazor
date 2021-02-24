@@ -1,0 +1,15 @@
+D:\dev\udemy\blazor\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\dev\udemy\blazor\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+D:\dev\udemy\blazor\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+D:\dev\udemy\blazor\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\dev\udemy\blazor\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+D:\dev\udemy\blazor\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\dev\udemy\blazor\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+D:\dev\udemy\blazor\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\udemy\blazor\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\dev\udemy\blazor\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\dev\udemy\blazor\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\dev\udemy\blazor\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\dev\udemy\blazor\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\dev\udemy\blazor\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\dev\udemy\blazor\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache

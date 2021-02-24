@@ -14,8 +14,11 @@
             <span>@DangerChildContent</span>
         }
     </div>
+    <button class="btn btn-danger" @onclick="OnClickButtonMethod">Button to be clicked!</button>
+    <GrandChildComponent></GrandChildComponent>
 </div>
-<button class="btn btn-danger" @onclick="OnClickButtonMethod">Button to be clicked!</button>
+
+
 @code {
     [Parameter]
     public string Title { get; set; }

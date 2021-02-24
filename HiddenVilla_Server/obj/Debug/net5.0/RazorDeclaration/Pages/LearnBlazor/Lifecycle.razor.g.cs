@@ -121,6 +121,7 @@ using System.Threading;
     protected override async Task OnInitializedAsync()
     {
         EventType.Add("OnInitializedAsync is called");
+        await Task.Delay(1000);
     }
     protected override void OnParametersSet()
     {
@@ -129,6 +130,7 @@ using System.Threading;
     protected override async Task OnParametersSetAsync()
     {
         EventType.Add("OnParametersSetAsync is called");
+        await Task.Delay(1000);
     }
     protected override void OnAfterRender(bool firstRender)
     {
@@ -137,6 +139,7 @@ using System.Threading;
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
         EventType.Add("OnAfterRenderAsync is called");
+        await Task.Delay(1000);
     }
     protected override bool ShouldRender()
         {
