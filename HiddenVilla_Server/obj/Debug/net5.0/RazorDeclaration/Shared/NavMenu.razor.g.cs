@@ -83,8 +83,15 @@ using HiddenVilla_Server.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 12 "D:\dev\udemy\blazor\HiddenVilla_Server\_Imports.razor"
+#line 11 "D:\dev\udemy\blazor\HiddenVilla_Server\_Imports.razor"
 using HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "D:\dev\udemy\blazor\HiddenVilla_Server\_Imports.razor"
+using HiddenVilla_Server.Helper;
 
 #line default
 #line hidden
@@ -97,7 +104,7 @@ using HiddenVilla_Server.Pages.LearnBlazor.LearnBlazorComponent;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 53 "D:\dev\udemy\blazor\HiddenVilla_Server\Shared\NavMenu.razor"
+#line 63 "D:\dev\udemy\blazor\HiddenVilla_Server\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

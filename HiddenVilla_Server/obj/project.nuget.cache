@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Bi6tM3heD55KYMoi+sk6j3FTDwoxfp9eYy6MWDRfspQM1Eq4POtI6bXVkobE/QGtaf7H64loCDbrBQB5TIp3mw==",
+  "dgSpecHash": "zvw/x80JZLlYnlyoOO/JCbXYcF+/NPNuNn74A0bYCZrjIpuJb1P6/SgWR7idcGQH3C6yV/NvZNVRakV//GONBA==",
   "success": true,
   "projectFilePath": "D:\\dev\\udemy\\blazor\\HiddenVilla_Server\\HiddenVilla_Server.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
@@ -66,7 +68,7 @@
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\dmitrii.fadeev\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",

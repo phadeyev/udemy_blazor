@@ -45,6 +45,72 @@
         }
       },
       {
+        "HashCode": 1679789238,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.HotelRoom.HotelRoomList",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HotelRoomList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.HotelRoom.HotelRoomList"
+        }
+      },
+      {
+        "HashCode": 761195060,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.HotelRoom.HotelRoomList",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.HotelRoom.HotelRoomList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.HotelRoom.HotelRoomList",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1378523489,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.HotelRoom.HotelRoomUpsert",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HotelRoomUpsert"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.HotelRoom.HotelRoomUpsert"
+        }
+      },
+      {
+        "HashCode": 1020586834,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.HotelRoom.HotelRoomUpsert",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.HotelRoom.HotelRoomUpsert"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.HotelRoom.HotelRoomUpsert",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1082962640,
         "Kind": "Components.Component",
         "Name": "HiddenVilla_Server.Pages.LearnBlazor.LearnAdvancedRouting",
@@ -736,6 +802,39 @@
         }
       },
       {
+        "HashCode": -947307764,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Lifecycle"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle"
+        }
+      },
+      {
+        "HashCode": 1614447214,
+        "Kind": "Components.Component",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle",
+        "AssemblyName": "HiddenVilla_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 841486519,
         "Kind": "Components.Component",
         "Name": "HiddenVilla_Server.Pages.LearnBlazor.ParentComponent",
@@ -871,35 +970,35 @@
         }
       },
       {
-        "HashCode": -947307764,
+        "HashCode": -320809392,
         "Kind": "Components.Component",
-        "Name": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.BlazorJS",
         "AssemblyName": "HiddenVilla_Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Lifecycle"
+            "TagName": "BlazorJS"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle"
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.BlazorJS"
         }
       },
       {
-        "HashCode": 1614447214,
+        "HashCode": 453348858,
         "Kind": "Components.Component",
-        "Name": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle",
+        "Name": "HiddenVilla_Server.Pages.LearnBlazor.BlazorJS",
         "AssemblyName": "HiddenVilla_Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle"
+            "TagName": "HiddenVilla_Server.Pages.LearnBlazor.BlazorJS"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.Lifecycle",
+          "Common.TypeName": "HiddenVilla_Server.Pages.LearnBlazor.BlazorJS",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16781,6 +16880,16 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\HotelRoom\\HotelRoomList.razor",
+      "TargetPath": "Pages\\HotelRoom\\HotelRoomList.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\BlazorJS.razor",
+      "TargetPath": "Pages\\LearnBlazor\\BlazorJS.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\LearnAdvancedRouting.razor",
       "TargetPath": "Pages\\LearnBlazor\\LearnAdvancedRouting.razor",
       "FileKind": "component"
@@ -16798,6 +16907,11 @@
     {
       "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\LearnBlazor\\DemoHotel.razor",
       "TargetPath": "Pages\\LearnBlazor\\DemoHotel.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\dev\\udemy\\blazor\\HiddenVilla_Server\\Pages\\HotelRoom\\HotelRoomUpsert.razor",
+      "TargetPath": "Pages\\HotelRoom\\HotelRoomUpsert.razor",
       "FileKind": "component"
     },
     {
